@@ -338,8 +338,8 @@ https://streamer1.nexgen.bz:443/FUSE/index.m3u8
 https://streamer1.nexgen.bz:443/ME_TV/index.m3u8
 #EXTINF:-1 group-title="CLASSIC MOVIES" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/caribbean/tt/504.png",TCM
 https://streamer1.nexgen.bz:443/TCM/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV HD
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV
+https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",LIFETIME
 https://streamer1.nexgen.bz:443/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1280px-LMN_logo_2019.svg.png",LMN
@@ -495,8 +495,8 @@ https://streamer2.nexgen.bz:443/THE_NEST/index.m3u8
 https://streamer1.nexgen.bz:443/HALLMARK/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1280px-Hallmark_movies_mysteries.png",HALLMARK MOVIES AND MYSTERIES
 https://streamer1.nexgen.bz:443/HMM/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSITV HD
-https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-replay-alt-de.png?raw=true",00 Replay
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://etu-cnm.uqat.ca/20181-art1211/plod08/TP3/Images/toonami_aftermath.png",AFTER MATH
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1024px-CinecanalLA.png",CINECANAL
@@ -685,8 +685,6 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Outdoor",Love Nature
 https://streamer1.nexgen.bz:443/LOVE_NATURE/index.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="KUFU" tvg-logo="https://comps.gograph.com/martial-arts-logo-illustration_gg101283819.jpg",MARTIA ART
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:-1 group-title="KUFU" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",HI-YAH
