@@ -12,8 +12,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_d
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://banner2.cleanpng.com/20180905/ahz/kisspng-television-channel-miami-color-television-jenny-scordamaglia-amp-quot-1713944044724.webp",MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w1069735006_b1896000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets.sky.com/dist/1314/static/sky-logo-redesign.png",Sky TV
-https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-2cb201942c94460d9356b2c138272263/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",FLOW 1
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=yopso73zkbmm/livestream=yopso73zkbmm.isml/livestream=yopso73zkbmm-audio=128000-video=2400000.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/yn9bk3q/download.jpg",RUSH PRIME
@@ -248,8 +246,6 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PBS.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="",Comedy Central HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
-#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="",Comedy Central Animation
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1280px-ION_Mystery_logo.svg.png" group-title="",ION Mystery HD
@@ -340,7 +336,6 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AXN.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:ION.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://iptv.airlinktt.co/client-portal/channel/1001436/logo_i68x46.png",TRUE CRIME
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ESCAPE.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",IFC
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:IFC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/1280px-We_TV_logo_2014.svg.png",WE TV
@@ -455,7 +450,7 @@ http://tbtv.me:8080/play/live.php?mac=00:1A:79:63:E6:F5&stream=134165&extension=
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true",WWE NETWORK
 http://tbtv.me:8080/play/live.php?mac=00:1A:79:63:E6:F5&stream=141586&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING 
-https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.nationnews.com/nationnews/news/wp-content/uploads/sites/2/2017/08/f44439766154f99cdc7229e3ced69553.gif",SPORTSMAX 1
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsmax-2-1706.png",SPORTSMAX 2
@@ -494,8 +489,6 @@ https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=sbhslnhj
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=wiwlsvllx6gi/livestream=wiwlsvllx6gi.isml/livestream=wiwlsvllx6gi-audio=128000-video=2400000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-ID="" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/q_auto,f_png/redbullcom/2016/06/22/1331802019605_2/red-bull-tv-logo",Red Bull TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="Sports",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-logo="https://i.imgur.com/ixAkq26.png" group-title="Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour
@@ -536,8 +529,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_b
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://pbs.twimg.com/profile_images/1125420569715933185/Pe_iypSM_400x400.png",Right Now TV
 https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8
-#EXTINF:-1 tvg-name="AXS_TV_NOW" tvg-id="23ecf3" tvg-logo="https://i.imgur.com/J8brM2F.png" group-title=",AXS TV
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5e7cf6608c805600078872f2/colorLogoPNG.png",AWE NETWORK
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="Entertainment",30A Sidewalks
@@ -792,8 +783,6 @@ http://fl1.moveonjoy.com/TBS/index.m3u8
 http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="115" channel-number="115",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="117" channel-number="117",TNT East
-http://fl2.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="118" channel-number="118",truTV East
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="Live TV (MoveOnJoy)" streamId="120" channel-number="120",TVOne
