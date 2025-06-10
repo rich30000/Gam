@@ -440,6 +440,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd0
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVCultFilms.us" tvg-logo="https://i.imgur.com/xoaIAus.png" group-title="Movies",Pluto TV Cult Films
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c665db3e6c01b72c4977bc2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=109&terminate=false&userId=
+#EXTINF:-1 tvg-id="MovieSphere.us",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DramaLife.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png?raw=true" group-title="Movies",Drama Life
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-id="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="",MyTime movie network
@@ -451,6 +453,8 @@ http://tbtv.me:8080/play/live.php?mac=00:1A:79:63:E6:F5&stream=134165&extension=
 http://tbtv.me:8080/play/live.php?mac=00:1A:79:63:E6:F5&stream=141586&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING 
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
+#EXTINF:-1 tvg-id="",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.nationnews.com/nationnews/news/wp-content/uploads/sites/2/2017/08/f44439766154f99cdc7229e3ced69553.gif",SPORTSMAX 1
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsmax-2-1706.png",SPORTSMAX 2
@@ -497,6 +501,8 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="",Loupe
@@ -523,8 +529,6 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Outdoor",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 group-title="KUFU" tvg-logo="https://comps.gograph.com/martial-arts-logo-illustration_gg101283819.jpg",MARTIA ART
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:-1 group-title="KUFU" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",HI-YAH
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://pbs.twimg.com/profile_images/1125420569715933185/Pe_iypSM_400x400.png",Right Now TV
@@ -611,6 +615,8 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Aspire.us",Aspire
 http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-id="AE.us@East",A&E East
+https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America East
 http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America
@@ -639,6 +645,8 @@ http://fl3.moveonjoy.com/BRAVO/index.m3u8
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1 tvg-id="CSPAN.us",C-SPAN
 http://fl3.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us",Crime + Investigation
+https://tvpass.org/live/CrimePlusInvestigation/hd
 #EXTINF:-1 tvg-id="CBS.us@East",CBS East (720p)
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
@@ -661,8 +669,6 @@ http://fl3.moveonjoy.com/COMET/index.m3u8
 http://fl3.moveonjoy.com/COURT_TV/index.m3u8
 #EXTINF:-1 tvg-id="CoziTV.us",Cozi TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 tvg-id="CuriosityStream.us",CuriosityStream (720p)
-http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="28" channel-number="28",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
@@ -681,6 +687,8 @@ http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 tvg-id="",Fox Sports 1
 http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="",Fox Sports 2
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="Freeform.us@East",Free form East
 http://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-id="Fuse.us@East",Fuse East (720p)
@@ -697,18 +705,34 @@ http://fl3.moveonjoy.com/FYI/index.m3u8
 http://fl3.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 tvg-id="Grit.us",Grit
 http://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us",Golf Channel
+https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East
 http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkDrama.us",Hallmark Drama (720p)
 http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies & Mysteries
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 tvg-id="HSN.us",HSN
 http://fl3.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-id="IFC.us@East",IFC East
+https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus East (720p)
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 tvg-id="IONTV.us@East",ION TV East
 http://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="KSATDT2.us",KSAT-DT2 (720p)
 http://fl3.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="KABCDT1.us",KABC-DT1 (720p)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="KCBSDT1.us",KCBS-DT1 (1080p)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="KFMBDT2.us",KFMB-DT2 (720p)
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+#EXTINF:-1 tvg-id="KNBCDT1.us",KNBC-DT1 (1080p)
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="KTTVDT1.us",KTTV-DT1 (720p)
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="66" channel-number="66",Laff TV
 http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime East
@@ -717,6 +741,8 @@ http://fl3.moveonjoy.com/LIFETIME/index.m3u8
 http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca",Love Nature
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="Logo.us@East",Logo East
+https://tvpass.org/live/LogoEast/hd
 #EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ East
 http://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us",MGM+ Marquee
@@ -747,6 +773,8 @@ http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us",NBA TV
 http://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC East (Chicago)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="82" channel-number="82",NBC East (Chicago)
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NewsNationEast.us",News Nation (720p)
@@ -781,8 +809,6 @@ http://fl3.moveonjoy.com/OXYGEN/index.m3u8
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="PursuitChannel.us",Pursuit Channel (720p)
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="95" channel-number="95",PopTV East
-http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-id="QVC.us",QVC (720p)
 http://fl3.moveonjoy.com/QVC/index.m3u8
 #EXTINF:-1 tvg-id="Reelz.us",Reelz (720p)
@@ -835,6 +861,8 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 http://fl3.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="UpTV.us",Up TV (1080p)
 http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network East
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="VH1.us@East",VH1 East
 http://fl3.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="VICETV.us",VICE TV (720p)
