@@ -177,7 +177,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_JR.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/TeenNick.us.png",TEEN NICK
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TEEN_NICK.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
-http://143.244.60.30/NICKELODEON/index.m3u8
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",DISNEY XD
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1920px-Nicktoons_Network_logo_2009.svg.png",NICK TOONS
@@ -519,16 +519,14 @@ https://bozztv.com/hwotta/playlist/playlist.m3u8
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/c0022c_00346a1fad75450091d456228f06829e~mv2.png/v1/fit/w_2500,h_1330,al_c/c0022c_00346a1fad75450091d456228f06829e~mv2.png",Young Hollywood 
 https://younghollywood-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Undefined",Travelxp
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Undefined",Go2 Travel
+https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.ctfassets.net/meyk1q8emdlo/5Z5cdMK4UYkEFr1lkq5atm/fd75920251aeb9ae9d0398441bc0c390/channel-logo-network.png" group-title="Undefined",LOL! Network
 https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://filmfreeway-production-storage-01-storage.filmfreeway.com/festivals/logos/000/009/445/large/Discover_Film_Festival_Laurels_White.jpg" group-title="Undefined",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Religious",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Outdoor",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 group-title="KUFU" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",HI-YAH
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://pbs.twimg.com/profile_images/1125420569715933185/Pe_iypSM_400x400.png",Right Now TV
