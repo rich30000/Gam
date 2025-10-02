@@ -10,7 +10,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w899651663.m3
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-320x180-000000.jpg",Silja Live
-https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/0a5ca668-8bf7-4dbc-86ba-fdf55f03f5ac/0.m3u8
+https://59ec5453559f0.streamlock.net/seljalive/_definst_/smil:57963/chunklist_w2002366582_b1896000.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://banner2.cleanpng.com/20180905/ahz/kisspng-television-channel-miami-color-television-jenny-scordamaglia-amp-quot-1713944044724.webp",MIAMI TV
 https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/d7985cc2-ba3b-4ac5-b407-0484b5a68409/0.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",FLOW 1
@@ -79,10 +79,10 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZING.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:AAPKA_COLORS.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="http://iptv.airlinktt.co/client-portal/channel/1001645/logo_i68x46.png",COLORS CINEPLEX
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:CINEPLEX.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png",WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ShemarooBollywood.us",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT AMERICA HD
@@ -249,8 +249,8 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COMEDY_CENTRAL.smil/playlist.m3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1280px-ION_Mystery_logo.svg.png" group-title="",ION Mystery HD
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1280px-ION_Mystery_logo.svg.png" group-title="",ION
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f9a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7cc513a-0132-4e4f-85f1-bb3cb90423fd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/USANetwork.us.png",USA
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://mrtv.me/wp-content/uploads/2022/06/Persiana-Plus.jpg",Persiana ONE
@@ -513,7 +513,7 @@ https://younghollywood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Undefined",Go2 Travel
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.ctfassets.net/meyk1q8emdlo/5Z5cdMK4UYkEFr1lkq5atm/fd75920251aeb9ae9d0398441bc0c390/channel-logo-network.png" group-title="Undefined",LOL! Network
-https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
+https://livetv-fa.tubi.video/lol-network3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://filmfreeway-production-storage-01-storage.filmfreeway.com/festivals/logos/000/009/445/large/Discover_Film_Festival_Laurels_White.jpg" group-title="Undefined",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Religious",Amazing Discoveries TV
@@ -594,5 +594,6 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
 
 
