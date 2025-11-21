@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",FASHION TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://s3.spbtv.com/spbtv-world-production/6ed423305de6d86a25d0.png?v=5809c88c",MIAMI TV Latino
-https://6478139b04f94cf6a3e52c06b84c8d48.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-latino/aaaaa56d-1d69-461d-ab99-a41e23c24c08/0.m3u8
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_7201280_p_0.m3u8
+#EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://s3.spbtv.com/spbtv-world-production/6ed423305de6d86a25d0.png?v=5809c88c",MIAMI TV MODELS
+https://59ec5453559f0.streamlock.net/miamitvmodels/_definst_/smil:529634/chunklist_w959983628_b5096000.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://vivaespaña.tv/user/upload/source/miamitvfashion.jpg",MIAMI TV FASHION
-https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/8efa29dc-8d67-4358-8300-9cbc0df3cdef/0.m3u8
+https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/smil:34256/chunklist_w1248452042_b5096000.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-800x450-FFFFFF.jpg",JENNY LIVE
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w899651663.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
+https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-320x180-000000.jpg",Silja Live
 https://59ec5453559f0.streamlock.net/seljalive/_definst_/smil:57963/chunklist_w2002366582_b1896000.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://banner2.cleanpng.com/20180905/ahz/kisspng-television-channel-miami-color-television-jenny-scordamaglia-amp-quot-1713944044724.webp",MIAMI TV
-https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/d7985cc2-ba3b-4ac5-b407-0484b5a68409/0.m3u8
+https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",FLOW 1
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=yopso73zkbmm/livestream=yopso73zkbmm.isml/livestream=yopso73zkbmm-audio=128000-video=2400000.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/yn9bk3q/download.jpg",RUSH PRIME
@@ -594,6 +594,7 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
 
 
 
