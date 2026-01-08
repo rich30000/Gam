@@ -19,8 +19,8 @@ https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1436833733301-WW7P6UWSAAZYCM5279ZW/long%2Blogo_kaloopy.jpg",KALOOPY
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://banner2.cleanpng.com/20180905/ahz/kisspng-television-channel-miami-color-television-jenny-scordamaglia-amp-quot-1713944044724.webp",MIAMI TV MUSIC
-https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/e15b13df-bedb-4693-abc0-1aedf08988c3/0.m3u8
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us@SD",Global Fashion
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVGuyana.gy@SD",MTV Guyana
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-ID="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSDhrxP2-vnif-ptgBWv_QdsJu3Tpl-StXFz-EEvQ=s900-c-k-c0x00ffffff-no-rj",SANKHYA
@@ -563,6 +563,7 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
 
 
 
