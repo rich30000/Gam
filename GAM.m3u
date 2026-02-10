@@ -4,7 +4,7 @@ https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://s3.spbtv.com/spbtv-world-production/6ed423305de6d86a25d0.png?v=5809c88c",MIAMI TV MODELS
 https://59ec5453559f0.streamlock.net/miamitvmodels/_definst_/smil:529634/chunklist_w959983628_b5096000.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://vivaespaña.tv/user/upload/source/miamitvfashion.jpg",MIAMI TV FASHION
-https://c3555fbfd6f24b7984b6f0e24540353e.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Fashion/f49b9f00-e46a-4136-a608-6bbc0dd5e3dd/0.m3u8
+https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/smil:34256/chunklist_w1529265107_b5096000.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-800x450-FFFFFF.jpg",JENNY LIVE
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w899651663.m3u8
 #EXTINF:-1 group-title="" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",Fashion TV
@@ -196,7 +196,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_b
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="",Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.thenewsroom.io/platform/website_logo/1288493109_vice96x96.png" group-title="Undefined",Vice
-https://fl1.moveonjoy.com/VICELAND/index.m3u8
+https://fl7.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="",UNIMAS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:UNIMAS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="",UNIVISION
@@ -248,7 +248,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COMEDY_CENTRAL.smil/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="",Comedy Central HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV
-https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1280px-ION_Mystery_logo.svg.png" group-title="",ION
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f9a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7cc513a-0132-4e4f-85f1-bb3cb90423fd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/USANetwork.us.png",USA
@@ -292,9 +292,9 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png",FX
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="51" channel-number="51",FXM
-https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+https://fl7.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="52" channel-number="52",FXX
-https://fl1.moveonjoy.com/FXX/index.m3u8
+https://fl7.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:MTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
@@ -563,6 +563,7 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
 
 
 
