@@ -366,7 +366,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SHOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png",COSMO
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COSMO.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz:443/HBO2/index.m3u8
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1024px-HBO_Signature.svg.png",HBO SIGNATURE
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO CARIBBEAN
