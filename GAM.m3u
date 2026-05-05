@@ -390,11 +390,11 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg",PLAYBOY
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg",PLAYBOY HD
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164544
+http://31.148.48.15/Playboy_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2
-http://cord-cutter.net:8080/bn80NG/909467/57310
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40655.rtmp
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",Crave 4
-http://cord-cutter.net:8080/bn80NG/909467/57311
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40653.rtmp
 #EXTINF:-1 tvg-id="" tvg-logo="https://ik.imagekit.io/tp/images/Logos/Pluto%20TV%20Movies.jpg" group-title="Undefined",Pluto TV Movies
 https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Undefined",Paramount Plus Picks
@@ -480,7 +480,7 @@ https://younghollywood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Undefined",Go2 Travel
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.ctfassets.net/meyk1q8emdlo/5Z5cdMK4UYkEFr1lkq5atm/fd75920251aeb9ae9d0398441bc0c390/channel-logo-network.png" group-title="Undefined",LOL! Network
-https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8
+https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://filmfreeway-production-storage-01-storage.filmfreeway.com/festivals/logos/000/009/445/large/Discover_Film_Festival_Laurels_White.jpg" group-title="Undefined",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Religious",Amazing Discoveries TV
@@ -494,7 +494,7 @@ https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="Entertainment",30A Sidewalks
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="Qmusic.nl" tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="Music",Qmusic
-https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
+https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="Music",California Music Channel
