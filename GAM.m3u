@@ -21,8 +21,8 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 https://fl1004.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GlobalFashionChannel.us@SD",Global Fashion
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVGuyana.gy@SD",MTV Guyana
-https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV584iY-ku3Cwj87zevlhQHnYVb-rD89AxuI7XxBZA2g&s=10",IAN_NETWORK
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:IAN_NETWORK.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-ID="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSDhrxP2-vnif-ptgBWv_QdsJu3Tpl-StXFz-EEvQ=s900-c-k-c0x00ffffff-no-rj",SANKHYA
 https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/yn9bk3q/download.jpg",RUSH PRIME
