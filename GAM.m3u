@@ -21,7 +21,7 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 https://fl1004.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GlobalFashionChannel.us@SD",Global Fashion
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 group-title="LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV584iY-ku3Cwj87zevlhQHnYVb-rD89AxuI7XxBZA2g&s=10",IAN_NETWORK
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV584iY-ku3Cwj87zevlhQHnYVb-rD89AxuI7XxBZA2g&s=10",IAN NETWORK
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:IAN_NETWORK.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-ID="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSDhrxP2-vnif-ptgBWv_QdsJu3Tpl-StXFz-EEvQ=s900-c-k-c0x00ffffff-no-rj",SANKHYA
 https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
@@ -183,8 +183,8 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TEEN_NICK.smil/playlist.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",DISNEY XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1920px-Nicktoons_Network_logo_2009.svg.png",NICK TOONS
-http://212.102.60.231/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",TOONCAST
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/96649.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/teentitans/images/8/89/Toonami_logo.png/" group-title="Undefined",Toonami East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Anime" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",Anime All Day
@@ -291,8 +291,8 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV_ONE.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png",FX
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FX.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="51" channel-number="51",FXM
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/23309.rtmp
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/1280px-Star_Comedy_2024.svg.png",STAR COMEDY
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/96611.ts
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="52" channel-number="52",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
@@ -366,7 +366,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SHOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png",COSMO
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COSMO.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/96621.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1024px-HBO_Signature.svg.png",HBO SIGNATURE
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO CARIBBEAN
@@ -391,10 +391,10 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg",PLAYBOY HD
 http://31.148.48.15/Playboy_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40655.rtmp
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",Crave 4
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40653.rtmp
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/ce4e54fb-6086-4743-b04f-4a6985862e3e/calaaction-gradient-1.png" group-title="Movies",CALA ACTION
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/191097.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/d183bcef-32c3-43a2-be55-8960793db713/calawesterns-gradient.png" group-title="Movies",CALA WEATERN
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/18614.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://ik.imagekit.io/tp/images/Logos/Pluto%20TV%20Movies.jpg" group-title="Undefined",Pluto TV Movies
 https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Undefined",Paramount Plus Picks
@@ -457,12 +457,16 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NBA_TV.smil/playlist.m3u8
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-logo="https://i.imgur.com/ixAkq26.png" group-title="Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",PPV 1
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/28942.ts
+#EXTINF:-1 tvg-id="" tvg-logo="",PPV 2
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/53504.ts
+#EXTINF:-1 tvg-id="" tvg-logo="",PPV 3
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/1048297.ts
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",Horse & Country TV
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmVkkFLFfXLaGeEqh232mQc6UOf1qBYyh7TrUc5eEx0MIr4X9_keKG3yjsAKhRcjGkz6TgULvDVSGKZZ-rugI-IDKA3g9oKOf8y7Kjg&s=10",MTV 2
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/96632.ts
 #EXTINF:-1 tvg-id="",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",Bon Appétit
@@ -477,8 +481,8 @@ https://bozztv.com/hwotta/playlist/playlist.m3u8
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/c0022c_00346a1fad75450091d456228f06829e~mv2.png/v1/fit/w_2500,h_1330,al_c/c0022c_00346a1fad75450091d456228f06829e~mv2.png",Young Hollywood 
 https://younghollywood-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Undefined",Go2 Travel
-https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQNdREQTDAFeTfO-lpVc5NSwjdfgArUxm9RJsGk1AKw&s=10",TCM HD
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/96647.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.ctfassets.net/meyk1q8emdlo/5Z5cdMK4UYkEFr1lkq5atm/fd75920251aeb9ae9d0398441bc0c390/channel-logo-network.png" group-title="Undefined",LOL! Network
 https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://filmfreeway-production-storage-01-storage.filmfreeway.com/festivals/logos/000/009/445/large/Discover_Film_Festival_Laurels_White.jpg" group-title="Undefined",DiscoverFilm
