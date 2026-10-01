@@ -30,7 +30,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:RUSHPRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-ID="" tvg-logo="http://iptv.airlinktt.co/client-portal/channel/1001659/logo_i68x46.png",VIBES
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:VIBES.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/CNC3_Official_logo.png",CNC3
-http://iptvcdn.airlinktt.co/ttorigin02/live/smil:CNC3.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin04/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TV4
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
@@ -94,7 +94,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1024px-Fox_Weather_logo.svg.png",FOX WEATHER
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN
-http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/47/5f/35826/c300.png",ALJAZEERA
@@ -180,7 +180,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_JR.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/TeenNick.us.png",TEEN NICK
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TEEN_NICK.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",DISNEY XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",TOONCAST
