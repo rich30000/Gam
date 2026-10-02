@@ -294,7 +294,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/1280px-Star_Comedy_2024.svg.png",STAR COMEDY
 http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/96611.ts
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="52" channel-number="52",FXX
-http://23.237.104.106:8080/USA_FXX/index.m3u8
+http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/2209.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:MTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
@@ -390,7 +390,7 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg",PLAYBOY
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg",PLAYBOY HD
-http://31.148.48.15/Playboy_TV/playlist.m3u8
+https://stream.xlivetv.com/s/D7AB9rTZrjikKpPqzDeAH07iOwZBd2bXUckxMij4sEI
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/ce4e54fb-6086-4743-b04f-4a6985862e3e/calaaction-gradient-1.png" group-title="Movies",CALA ACTION
 http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/191097.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/d183bcef-32c3-43a2-be55-8960793db713/calawesterns-gradient.png" group-title="Movies",CALA WEATERN
@@ -430,7 +430,7 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 #EXTINF:-1 tvg-id="",UFC
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png",FLOW SPORTS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.anguilla/files/Rush_0.png",RUSH
@@ -485,8 +485,8 @@ https://younghollywood-vizio.amagi.tv/playlist.m3u8
 http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/96647.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.ctfassets.net/meyk1q8emdlo/5Z5cdMK4UYkEFr1lkq5atm/fd75920251aeb9ae9d0398441bc0c390/channel-logo-network.png" group-title="Undefined",LOL! Network
 https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://filmfreeway-production-storage-01-storage.filmfreeway.com/festivals/logos/000/009/445/large/Discover_Film_Festival_Laurels_White.jpg" group-title="Undefined",DiscoverFilm
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@HD",Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Religious",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 group-title="KUFU" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",HI-YAH
@@ -495,8 +495,8 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5e7cf6608c805600078872f2/colorLogoPNG.png",AWE NETWORK
 https://aweencore-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="30ASidewalks.us" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="Entertainment",30A Sidewalks
-https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland" tvg-logo="https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png" group-title="Music",Now 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="Qmusic.nl" tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="Music",Qmusic
 https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2BEAT
@@ -513,12 +513,12 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Now_That%27s_What_I_Call_the_90%27s.jpg" group-title="Undefined",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",VEVO 2K
-https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
-#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",VEVO 90's
-https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
-#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",VEVO R&B
-https://jmp2.uk/rok-6be3083b8ec2508495684e5087f8f86a.m3u8
+#EXTINF:-1 tvg-id="MusicBoxHits.cz@SD" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png" group-title="Music",Music Box Hits
+http://88.212.15.19/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" tvg-logo="https://i.imgur.com/4Ww7CsR.png" group-title="Music",1HD Music Television
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",XITE Hits
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Stingray Qello Concerts 
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Music",Stingray Classic Rock 
