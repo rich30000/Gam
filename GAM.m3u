@@ -388,9 +388,9 @@ https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://etu-cnm.uqat.ca/20181-art1211/plod08/TP3/Images/toonami_aftermath.png",AFTER MATH
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg",PLAYBOY
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+https://stream.xlivetv.com/s/_WH3mI5xy14_HqNtPYz9E7c1kqt3zrjJi5E2_iV5dGE
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg",PLAYBOY HD
-https://stream.xlivetv.com/s/D7AB9rTZrjikKpPqzDeAH07iOwZBd2bXUckxMij4sEI
+https://stream.xlivetv.com/s/5Cc_6b6OrzZwDoh1y7YyPE5BZdAtO6j_GLw5IIGx3LU
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/ce4e54fb-6086-4743-b04f-4a6985862e3e/calaaction-gradient-1.png" group-title="Movies",CALA ACTION
 http://line.megacdn.live/live/WWR1K8V4/TTF9SJKY/191097.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/d183bcef-32c3-43a2-be55-8960793db713/calawesterns-gradient.png" group-title="Movies",CALA WEATERN
